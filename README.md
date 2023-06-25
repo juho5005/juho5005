@@ -1,10 +1,9 @@
 ### Hi there 👋
-
-[![Solved.ac
-juho5005](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juho5005&layout=compact)](https://github.com/juho5005/github-readme-stats)
-
+<div align=center>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juho5005)](https://solved.ac/juho5005/)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juho5005&layout=compact)](https://github.com/juho5005/github-readme-stats)
+</div>
 <!--
 **juho5005/juho5005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
