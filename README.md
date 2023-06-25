@@ -4,6 +4,7 @@
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juho5005)](https://solved.ac/juho5005/)
 
+  <hr>
 </div>
 
 <!--
