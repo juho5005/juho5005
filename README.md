@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
+juho5005](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{handle})
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juho5005&layout=compact)](https://github.com/juho5005/github-readme-stats)
 
