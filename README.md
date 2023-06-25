@@ -1,5 +1,7 @@
 <div align=center>
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juho5005)](https://solved.ac/juho5005/)
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juho5005&layout=compact)](https://github.com/juho5005/github-readme-stats)
 </div>
 
